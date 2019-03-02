@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189960497287",
+    "firebase_url": "https://foodfinder-de0f4.firebaseio.com",
+    "project_id": "foodfinder-de0f4",
+    "storage_bucket": "foodfinder-de0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189960497287:android:7572f62f740cdb5f",
+        "android_client_info": {
+          "package_name": "o.durlock.foodfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189960497287-qliqo869i1kikt81b9uie207ionf061l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "o.durlock.foodfinder",
+            "certificate_hash": "a4247eca1cadbfd11efec97dbb839452d71adb30"
+          }
+        },
+        {
+          "client_id": "189960497287-t97ii6n911qgtvrtab1m32f1p6ifj72i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNesLHcTWQPo5igyAx5Wgi7W_KZfzSeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189960497287-t97ii6n911qgtvrtab1m32f1p6ifj72i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
