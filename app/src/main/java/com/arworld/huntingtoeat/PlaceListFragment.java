@@ -11,12 +11,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * A fragment representing a list of Items.
- * <p/>
- * Activities containing this fragment MUST implement the {@link FragmentInteractionListener}
- * interface.
- */
 public class PlaceListFragment extends Fragment {
 
     // TODO: Customize parameter argument names
